@@ -13,7 +13,7 @@ for (let key in data) {
     console.log(data[key].icon1) // все нэймы
 }
 
-let catalog = document.querySelector('.catalog2')
+let catalog = document.querySelector('.catalog')
 let out = ''
 
 for (let key in data) {
